@@ -1,0 +1,48 @@
+.testimonial-section {
+    padding: 40px 0;
+    margin-top: 300px;
+    z-index: 3;
+    cursor: -webkit-grab;
+}
+
+.sas{
+    margin-top: -50px;
+
+}
+
+.inner-width {
+    max-width: 1100px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.testimonial-section h1 {
+    color: #1A2F45;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+.testimonial {
+    background: #f1f1f1;
+    padding: 20px 0px 20px 55px;
+    border-radius: 8px;
+    cursor: pointer;
+  
+}
+
+.test-info {
+    display: flex;
+    height: 70px;
+
+}
+
+.test-pic {
+    width: 100px !important;
+    margin-right: 0px;
+    text-align: center;
+    justify-content: center;
+}

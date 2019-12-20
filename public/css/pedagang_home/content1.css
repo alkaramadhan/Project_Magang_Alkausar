@@ -1,0 +1,134 @@
+.kotak1 {
+    width: 223px;
+    height: 86px;
+    background: linear-gradient(111.09deg, #AA076B 0%, #61045F 100%);
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 200px;
+    float: left;
+}
+
+.kotak1 p {
+    margin-left: 16px;
+    margin-top: 16px;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.curen {
+    position: absolute;
+    top: 85px;
+    color: #DEE1E6;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+}
+
+.price {
+    position: absolute;
+    top: 127px;
+    color: #CCB57C;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+}
+
+.kotak2 {
+    width: 465px;
+    height: 86px;
+    background: linear-gradient(90deg, #0F0C29 0%, #302B63 50%, #24243E 100%);
+    border-radius: 5px;
+    margin-top: 70px;
+    margin-left: 442px;
+
+
+}
+
+.kotak2 h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #DEE1E6;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 101px;
+}
+
+.kotak2 p {
+    margin-left: 169px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: #DEE1E6;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.kotak3 {
+    width: 223px;
+    height: 86px;
+    background: linear-gradient(111.09deg, #ED213A 0%, #93291E 100%);
+    border-radius: 5px;
+    margin-left: 929px;
+    float: left;
+    margin-top: -86px;
+}
+
+.news {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    color: #DEE1E6;
+    margin-left: 16px;
+    margin-top: 5px;
+}
+
+.kalimatnews {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    /* Icon */
+    color: #CCB57C;
+    margin-left: 16px;
+    margin-top: 10px;
+}
+
+.hainamatoko {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    /* Secondary */
+    color: #1A2F45;
+    margin-top: 45px;
+    margin-left: 80px;
+}

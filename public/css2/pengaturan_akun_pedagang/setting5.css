@@ -1,0 +1,138 @@
+.setting5 {
+    background: #F5F5F5;
+    width: 1080px;
+    height: 100%;
+    margin-top: 250px;
+    margin-left: 110px;
+    border: 1px solid #39526C;
+    border-radius: 5px;
+}
+
+.wraps {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.jdloff {
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+
+    /* Secondary */
+    color: #1A2F45;
+}
+
+.wrapkonten {
+    margin-top: 50px;
+    width: auto;
+    height: 300px;
+}
+
+.pemisah {
+    border: solid 1px #3F5771;
+    height: 270px;
+    width: 1px;
+    float: left;
+    border-radius: 5px;
+}
+
+.kontenoff1 {
+    width: 500px;
+    float: left;
+    /* margin-top: 20px; */
+}
+
+.benefitoff {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-bottom: 35px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+
+    /* Headers */
+    color: #3F5771;
+}
+
+.ktn img {
+    float: left;
+    margin-right: 20px;
+}
+
+.ktn2 img {
+    float: left;
+    margin-right: 20px;
+}
+
+.ktn2 {
+    margin-top: 50px;
+}
+
+.tulktn {
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+
+    color: #000000;
+}
+
+.subktn {
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    margin-top: -15px;
+    color: #000000;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+}
+
+.kontenoff2 {
+    margin-top: -24px;
+    margin-right: 20px;
+}
+
+.requirementoff {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 520px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-bottom: 35px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+
+    /* Headers */
+    color: #3F5771;
+}
+
+.wrapall {
+    margin-left: 520px;
+}
+
+.btnverif {
+    width: 285px;
+    height: 35px;
+    background: linear-gradient(90deg, #0F0C29 0%, #302B63 50%, #24243E 100%);
+    border-radius: 5px;
+    border: 1px;
+    font-family: 'Poppins', sans-serif;
+    color: #CCB57C;
+    margin-top: 25px;
+    margin-left: 40px;
+}

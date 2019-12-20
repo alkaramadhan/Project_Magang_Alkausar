@@ -1,0 +1,165 @@
+.tulisan {
+    margin-top: 90px;
+    margin-left: 90px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    float: left;
+}
+
+.btnn button {
+    background: #1A2F45;
+    border-radius: 5px;
+    border: #1A2F45 1px;
+    font-family: 'Poppins', sans-serif;
+    color: #DEE1E6;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 21px;
+    float: right;
+    margin-top: 90px;
+    margin-right: 122px;
+}
+
+.btnn i {
+    padding-right: 18px;
+    padding-left: 21px;
+    color: #CCB57C;
+}
+
+
+/* Kotak 1 */
+.kotak1 {
+    width: 1115px;
+    height: 183px;
+    background: #F5F5F5;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 5px rgba(180, 180, 180, 0.25);
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-top: 190px;
+}
+
+.tulstat {
+    margin-top: 14px;
+    margin-left: 16px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#reset {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: #1A2F45;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: inherit;
+    margin-left: 13px;
+}
+
+.kotak1 button {
+    margin-left: 16px;
+    height: 32px;
+    width: 170px;
+    color: #1A2F45;
+    font-family: 'Poppins', sans-serif;
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.kotak1 button#btncheck:focus {
+
+    background: #F8ECCE;
+    border: 1px solid #CCB57C;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.kotak1 select {
+    margin-top: 20px;
+    margin-left: 16px;
+    height: 32px;
+    width: 170px;
+    color: #1A2F45;
+    font-family: 'Poppins', sans-serif;
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.kotak1 option {
+    border-radius: 5px;
+}
+
+#date {
+    margin-left: 16px;
+    height: 32px;
+    width: 239px;
+    padding-left: 50px;
+    color: #1A2F45;
+    font-family: 'Poppins', sans-serif;
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.kotak1 .fa-calendar-alt {
+    position: absolute;
+    left: 315px;
+    top: 335px;
+    color: #3F5771;
+}
+
+#kategori2 {
+    width: 230px;
+}
+
+#search {
+    margin-top: 20px;
+    margin-left: 16px;
+    height: 32px;
+    width: 380px;
+    color: #1A2F45;
+    font-family: 'Poppins', sans-serif;
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.kotak1 .fa-search {
+    position: absolute;
+    top: 333px;
+    left: 1160px;
+}
+
+a i {
+    color: #3F5771;
+}

@@ -1,0 +1,60 @@
+.maincontent {
+    width: 850px;
+    height: 470px;
+    /* background-color: black; */
+    margin-left: 360px ;
+    margin-top: 190px;
+}
+
+.psn{
+    margin-top: 25px;
+    margin-left: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.psn .p{
+    font-size: 32px;
+}
+.garisbawah{
+    border: solid 1px;
+}
+
+
+.perlihatkan{
+    float: right;
+    margin-top: 20px;
+}
+.urutkan {
+    float: left;
+    margin-right: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+.message{
+    margin-top: 70px;
+    /* border-bottom: solid 1px; */
+}
+.message p{
+    float: left;
+    /* border-bottom: solid 1px; */
+    /* margin-left: 20px; */
+    /* margin-right: 150px; */
+}
+.wt{
+    margin-right: 250px;
+    margin-left: 200px;
+}
+.garisbawahh{
+    border: solid 1px;
+    margin-top: 200px;
+}
+.clickable-row{
+    cursor: pointer;
+}

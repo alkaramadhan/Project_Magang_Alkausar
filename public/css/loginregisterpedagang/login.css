@@ -1,0 +1,270 @@
+.logo {
+    text-align: center;
+    margin-top: 56.68px;
+
+}
+
+
+.bg {
+    background: #1A2F45;
+    width: 450px;
+    height: 600px;
+    margin-top: 31px;
+    margin-right: 20px;
+}
+
+.wh {
+    text-align: center;
+    margin-top: 39px;
+    color: #1A2F45;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.gambar {
+    position: relative;
+    text-align: center;
+    margin-top: 31px;
+
+}
+
+.gambar img {
+    filter: brightness(50%);
+}
+
+.gambar .h1 {
+    position: absolute;
+}
+
+.masuk {
+    top: 10px;
+    left: 45px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.garis1 {
+    top: 123px;
+    left: 77px;
+    position: absolute;
+    width: 35px;
+    border: 1px solid #ffffff;
+
+}
+
+.sebagai {
+    top: 110px;
+    left: 115px;
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    color: #DADADA;
+    text-transform: lowercase;
+    border-radius: 20px;
+}
+
+.garis2 {
+    top: 123px;
+    left: 185px;
+    position: absolute;
+    width: 35px;
+    border: 1px solid #ffffff;
+
+}
+
+.pedagang {
+    top: 135px;
+    left: 79px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 42px;
+    text-transform: capitalize;
+    color: #ffffff;
+
+
+}
+
+.atau {
+    top: 520px;
+    left: 230px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 42px;
+    color: #ffffff;
+}
+
+
+.pembeli {
+    top: 535px;
+    left: 142px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 42px;
+    color: #ffffff;
+}
+
+.gambar p a {
+    color: #CCB57C;
+}
+
+.emailf {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 61px;
+    color: #DEE1E6;
+    font-family: 'Poppins', sans-serif;
+}
+
+.o {
+    margin-top: -200px;
+    background: rgba(63, 87, 113, 0.5);
+    width: 345px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgba(222, 225, 230, 0.75);
+}
+
+.passwordf {
+    margin-top: 14px;
+    margin-left: 50px;
+    margin-right: 61px;
+    color: #DEE1E6;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.o {
+    margin-top: -200px;
+    background: rgba(63, 87, 113, 0.5);
+    width: 345px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgba(222, 225, 230, 0.75);
+}
+
+.ippw {
+    position: relative;
+    background: rgba(63, 87, 113, 0.5);
+    width: 30px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgba(222, 225, 230, 0.75);
+}
+
+.passwordf i {
+    position: absolute;
+    left: 945px;
+    top: 617px;
+}
+
+.see {
+    float: right;
+
+}
+
+.bg input {
+    color: white;
+    padding-left: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.garis3 {
+    margin-left: 50px;
+    margin-top: 28px;
+    width: 140px;
+    border: 1px solid #000000;
+    float: left;
+}
+
+.or {
+    margin-left: 20px;
+    margin-top: 15px;
+    float: left;
+    color: rgba(222, 225, 230, 0.5);
+}
+
+.garis4 {
+    margin-left: 25px;
+    margin-top: 28px;
+    width: 137px;
+    border: 1px solid #000000;
+    float: left;
+}
+
+.sgn {
+    margin-top: 28px;
+    margin-left: 50px;
+    width: 340px;
+}
+
+.sgn a {
+    color: initial;
+    text-decoration: none;
+}
+
+.loginbtn {
+    float: right;
+    margin-right: 61px;
+    margin-top: 32px;
+    background-color: #CCB57C;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+    color: #3F5771;
+}
+
+.loginbtn:hover {
+    background-color: #CCB57C;
+    color: white;
+}
+
+
+.regis {
+    margin-top: 80px;
+    margin-left: 50px;
+    text-align: right;
+    margin-right: 61px;
+    color: #DEE1E6;
+}
+
+.regis a {
+    color: #CCB57C;
+    font-family: 'Roboto', sans-serif;
+}
+
+.copyright {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9BA4B1;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 50px;
+}

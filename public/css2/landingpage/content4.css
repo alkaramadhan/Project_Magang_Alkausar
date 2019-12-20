@@ -1,0 +1,70 @@
+body{
+    overflow-x: hidden ;
+}
+.bgtk {
+    position: relative;
+}
+
+.bgtk img {
+    filter: brightness(50%);
+    height: auto;
+}
+
+.tentangkami {
+    top: 20px;
+    left: 500px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #5B62F1
+}
+
+.apaitu {
+    position: absolute;
+    top: 111px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.1em;
+    left: 52px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 48px;
+    font-size: 32px;
+}
+
+.bgtk .apaitu1 {
+    position: absolute;
+    top: 177px;
+    left: 52px;
+    color: #FFC8AF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bgtk .why {
+    position: absolute;
+    top: 320px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.1em;
+    left: 52px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 48px;
+    font-size: 32px;
+}
+
+.why1 {
+    position: absolute;
+    top: 388px;
+    left: 52px;
+    color: #FFC8AF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+

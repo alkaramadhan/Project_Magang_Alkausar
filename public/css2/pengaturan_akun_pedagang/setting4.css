@@ -1,0 +1,51 @@
+.setting4 {
+    background: #F5F5F5;
+    width: 1080px;
+    height: 100%;
+    margin-top: 250px;
+    margin-left: 110px;
+    border: 1px solid #39526C;
+    border-radius: 5px;
+}
+
+.contain {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.jdlungg {
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+
+    /* Secondary */
+    color: #1A2F45;
+}
+
+.tmbhprdk {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+
+    /* Headers */
+    color: #3F5771;
+}
+
+.paginates{
+    width: 1020px;
+    /* background-color: black; */
+}
+
+table.dataTable.select tbody tr,
+table.dataTable thead th:first-child {
+  cursor: pointer;
+}

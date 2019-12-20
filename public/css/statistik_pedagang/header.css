@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 100px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    position: absolute;
+    top: 130px;
+    left: 110px;
+
+
+    /* Headers */
+    color: #3F5771;
+}
+
+
+.btnn button {
+    background: #1A2F45;
+    border-radius: 5px;
+    border: #1A2F45 1px;
+    font-family: 'Poppins', sans-serif;
+    color: #DEE1E6;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 21px;
+    float: right;
+    margin-top: 105px;
+    margin-right: 110px;
+}
+
+.btnn i {
+    padding-right: 18px;
+    padding-left: 21px;
+    color: #CCB57C;
+}

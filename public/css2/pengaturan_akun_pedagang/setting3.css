@@ -1,0 +1,151 @@
+.setting3 {
+    background: #F5F5F5;
+    width: 1080px;
+    margin-top: 250px;
+    height: 100%;
+    margin-left: 110px;
+    border: 1px solid #39526C;
+    border-radius: 5px;
+}
+
+.jdll {
+    margin-top: 12px;
+    margin-left: 12px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-family: 'Oxygen', sans-serif;
+    color: #1A2F45;
+}
+
+.jdll2 {
+    margin-top: 32px;
+    margin-left: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    color: #3F5571;
+}
+
+
+/* Input 1 */
+.inputt1 {
+    margin-top: 50px;
+}
+
+.inputt1 p {
+    margin-left: 12px;
+    float: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+}
+
+.inputt1 input {
+    margin-left: 255px;
+    width: 630px;
+    /* Folder */
+    background: #D0D0D0;
+    /* Line 2 */
+    border: 1px solid #A6A6A6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+/* End of Input 1 */
+
+/* Input 2 */
+.inputt2 {
+    margin-top: 20px;
+}
+
+.inputt2 p {
+    margin-left: 12px;
+    float: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+}
+
+.inputt2 select {
+    margin-left: 158px;
+    width: 630px;
+    /* Folder */
+    background: #D0D0D0;
+    /* Line 2 */
+    border: 1px solid #A6A6A6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* End of Input 2 */
+
+/* Input 2 */
+.inputt3 {
+    margin-top: 20px;
+}
+
+.inputt3 p {
+    margin-left: 12px;
+    float: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+}
+
+.inputt3 select {
+    margin-left: 284px;
+    width: 630px;
+    /* Folder */    
+    background: #D0D0D0;
+    /* Line 2 */
+    border: 1px solid #A6A6A6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.setting3 button {
+    margin-left: 890px;
+    margin-top: 15px;
+    background: #CCB57C;
+    border-radius: 5px;
+    border: 1px solid #CCB57C;
+    box-sizing: border-box;
+    color: #3F5771;
+    width: 102px;
+    height: 28px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}

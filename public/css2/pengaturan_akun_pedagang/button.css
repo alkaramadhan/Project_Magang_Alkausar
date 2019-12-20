@@ -1,0 +1,59 @@
+.buttonn {
+    margin-top: 200px;
+    margin-left: 110px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.buttonn div {
+    margin-left: 0px;
+    height: 50px;
+    width: 180px;
+    float: left;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    background: #D0D0D0D0;
+    padding-left: 20px;
+    padding-top: 10px;
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px 5px 0px 0px;
+
+}
+
+.buttonn div:hover{
+    cursor: pointer;
+}
+
+.buttonn div:active {
+    background: #F5F5F5;
+
+}
+.buttonn div:focus {
+    background: #F5F5F5;
+
+}
+
+.setting1 {
+    display: none;
+
+}
+
+.setting2 {
+    display: none;
+}
+
+.setting3{
+    display: none;
+}
+
+.setting4{
+    display: none;
+}
+
+.setting5{
+    display: none;
+}
+
+.subctn{
+    display: block;
+}

@@ -1,0 +1,51 @@
+
+
+.message {
+  width: 1200px;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+
+.message nav a{
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  letter-spacing: 0.05em;
+  font-family: 'Roboto', sans-serif;
+  color: #9BA4B1;
+
+}
+td{
+  font-family: 'Poppins', sans-serif;
+}
+
+.message{
+  margin-top: 70px;
+  /* border-bottom: solid 1px; */
+}
+.message p{
+  float: left;
+  /* border-bottom: solid 1px; */
+  /* margin-left: 20px; */
+  /* margin-right: 150px; */
+}
+.wt{
+  margin-right: 250px;
+  margin-left: 200px;
+}
+.garisbawahh{
+  border: solid 1px;
+  margin-top: 200px;
+}
+.clickable-row{
+  cursor: pointer;
+}

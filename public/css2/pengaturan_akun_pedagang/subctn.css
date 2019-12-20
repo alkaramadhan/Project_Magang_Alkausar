@@ -1,0 +1,224 @@
+.subctn {
+  background: #F5F5F5;
+  width: 1080px;
+  margin-top: 250px;
+  height: auto;
+  margin-left: 110px;
+  border: 1px solid #39526C;
+  border-radius: 5px;
+}
+
+.wrapsubctn {
+  margin-left: 14px;
+  margin-top: 14px;
+}
+
+.jdlver {
+  font-family: 'Oxygen', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.05em;
+  margin-bottom: 30px;
+
+  /* Secondary */
+  color: #1A2F45;
+}
+
+.inf {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #f5f5f5;
+  float: left;
+}
+
+.inf p {
+  text-align: center;
+  line-height: 50px;
+  font-size: 26px;
+  color: #F09819;
+
+}
+
+.infoo {
+  margin-left: 50px;
+  width: 990px;
+  height: 50px;
+  margin-left: 25px;
+  border-radius: 5px;
+  padding-left: 40px;
+  background: linear-gradient(104.85deg, rgba(240, 152, 25, 0.6) -0.81%, rgba(237, 222, 93, 0.6) 82.76%);
+}
+
+.infoo p {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 50px;
+  /* identical to box height */
+  letter-spacing: 0.1em;
+
+  /* Secondary */
+  color: #1A2F45;
+}
+
+
+.termsandcondi {
+  margin-top: 50px;
+  clear: both;
+}
+
+.terms {
+  font-family: 'Poppins', sans-serif;
+  float: left;
+  margin-right: 120px;
+}
+
+.terms p {
+  font-family: 'Oxygen', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.05em;
+
+  /* Headers */
+  color: #3F5771;
+}
+
+.terms a {
+
+  padding-top: 100px;
+}
+
+
+.condition {
+  padding-left: 200px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.condition p {
+  font-family: 'Oxygen', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  /* font-size: 20px; */
+  /* line-height: 25px; */
+  letter-spacing: 0.05em;
+
+  /* Headers */
+  color: #3F5771;
+}
+
+.condition ol {
+  margin-left: 270px;
+}
+
+
+/* Checkbox */
+.chex {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  padding-top: 0px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 21px;
+  letter-spacing: 0.05em;
+  color: #7A7979;
+  cursor: pointer;
+  font-size: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.chex input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.chex:hover input~.checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.chex input:checked~.checkmark {
+  background: linear-gradient(154.97deg, #1A2F45 0%, #3A6073 100%);
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.chex input:checked~.checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.chex .checkmark:after {
+  left: 9px;
+  top: 4px;
+  width: 7px;
+  height: 14px;
+  border: solid #CCB57C;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+.wrapsubctn button {
+  margin-left: 350px;
+  margin-bottom: 20px;
+  justify-content: center;
+  width: 288px;
+  height: 45px;
+  background: linear-gradient(175.83deg, #1A2F45 0%, #3A6073 100%);
+  border-radius: 5px;
+  border: solid 1px #1A2F45;
+  font-family: 'Oxygen', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+  letter-spacing: 0.1em;
+
+  /* Icon */
+  color: #CCB57C;
+}
+
+
+button[disabled]{
+  border: 1px solid #d0d0d0;
+  background: #D0D0D0;
+  color: #666666;
+  cursor: not-allowed;
+}

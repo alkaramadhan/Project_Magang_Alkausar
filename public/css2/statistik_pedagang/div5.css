@@ -1,0 +1,137 @@
+.div5 {
+    clear: both;
+    margin-left: 110px;
+    margin-top: 900px;
+}
+
+.hed {
+    width: 1095px;
+    background-color: #5E1183;
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px 5px 0px 0px;
+    color: #DEE1E6;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-family: 'Oxygen', sans-serif;
+    padding: 20px 20px 10px 20px;
+}
+
+.div5 .stat {
+    width: 1095px;
+    height: 100px;
+    float: left;
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.n {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+
+    /* Secondary */
+    color: #1A2F45;
+}
+
+.tingkat {
+    float: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+
+    /* Headers */
+    color: #3F5771;
+}
+
+.z {
+    margin-top: 20px;
+    margin-left: 94px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+
+    /* Headers */
+    color: #3F5771;
+}
+
+.jmltrst {
+    float: left;
+}
+
+.progkeberhasilan {
+    margin-left: 200px;
+}
+
+.progkbh {
+    margin-left: 500px;
+    margin-right: 100px;
+}
+
+.progkbh p {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+
+    /* Secondary */
+    color: #1A2F45;
+}
+
+.persenkbh{
+    margin-left: 520px;
+    margin-top: -22px;
+}
+.progkbh .progress{
+    /* float: left; */
+}
+
+
+.chart2 {
+    margin-left: -16px;
+    margin-top: -15px;
+}
+
+.chart2 {
+    clear: both;
+    width: 1095px;
+    height: 400px;
+    /* Kotak Kecil */
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 8px;
+    padding-left: 8px;
+    color: #1A2F45;
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+
+}

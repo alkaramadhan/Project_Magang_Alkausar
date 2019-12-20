@@ -1,0 +1,247 @@
+.thisweek {
+    width: 587px;
+    height: 300px;
+    margin-left: 80px;
+    background: #F9F9F9;
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 5px rgba(180, 180, 180, 0.25);
+    border-radius: 5px;
+    float: left;
+}
+
+.thisweek p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.q {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    margin-top: 14px;
+    margin-left: 14px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+
+    color: #000000;
+}
+
+.w {
+    position: absolute;
+    top: 355px;
+    left: 95px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+
+.e {
+    position: absolute;
+    top: 355px;
+    left: 515px;
+}
+
+.r {
+    position: absolute;
+    top: 355px;
+    left: 565px;
+}
+
+.t {
+    position: absolute;
+    top: 379px;
+    left: 565px;
+}
+
+.progress {
+    width: 450px;
+    margin-left: 14px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.progress-bar {
+    background: linear-gradient(90.39deg, #9400D3 0%, #4B0082 100%);
+}
+
+.thisweek a {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 302px;
+    left: 495px;
+}
+
+.weekfoll {
+    margin-left: 14px;
+    margin-top: 28px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.weekrat {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 273px;
+    top: 425px;
+}
+
+
+
+.weekvisit {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 470px;
+    top: 425px;
+}
+
+
+.weekreport {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 14px;
+    margin-top: 28px;
+}
+
+.weeksell {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 273px;
+    top: 500px;
+}
+
+
+.weekincome {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 470px;
+    top: 500px;
+}
+
+
+/* Total */
+.total {
+    width: 587px;
+    height: 300px;
+    margin-left: 687px;
+    background: #F9F9F9;
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 5px rgba(180, 180, 180, 0.25);
+    border-radius: 5px;
+    
+}
+
+.total p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.z {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    margin-top: 14px;
+    margin-left: 14px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+
+    color: #000000;
+}
+
+.x {
+    position: absolute;
+    top: 355px;
+    left: 95px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+
+.c {
+    position: absolute;
+    top: 355px;
+    left: 1121px;
+}
+
+.v {
+    position: absolute;
+    top: 355px;
+    left: 1170px;
+}
+
+.b {
+    position: absolute;
+    top: 379px;
+    left: 1170px;
+}
+
+.progress {
+    width: 450px;
+    margin-left: 14px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.progress-bar {
+    background: linear-gradient(90.39deg, #9400D3 0%, #4B0082 100%);
+}
+
+.total a {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 302px;
+    left: 1100px;
+}
+
+.totalfoll {
+    margin-left: 14px;
+    margin-top: 28px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.totalrat {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 873px;
+    top: 425px;
+}
+
+
+
+.totalvisit {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 1070px;
+    top: 425px;
+}
+
+
+.totalreport {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 14px;
+    margin-top: 28px;
+}
+
+.totalsell {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 873px;
+    top: 500px;
+}
+
+
+.totalincome {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 1070px;
+    top: 500px;
+}
+
+

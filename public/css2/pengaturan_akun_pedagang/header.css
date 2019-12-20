@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 100px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    position: absolute;
+    top: 130px;
+    left: 110px;
+
+
+    /* Headers */
+    color: #3F5771;
+}

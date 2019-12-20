@@ -1,0 +1,188 @@
+.foot {
+    background-color: #1A2F45;
+    margin-top: 169px;
+    height: 670px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+
+
+.cont {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    color: #DEE1E6;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+
+}
+
+::placeholder {
+    color: rgba(222, 225, 230, 0.5);
+
+}
+
+.form {
+    margin-top: 32px;
+    background: rgba(63, 87, 113, 0.5);
+    border-radius: 20px;
+    width: 601px;
+    height: 415px;
+}
+
+.namef {
+    float: left;
+}
+
+.nameform {
+    margin-top: 20px;
+    margin-left: 22px;
+    text-transform: capitalize;
+    color: #DEE1E6;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.formname {
+    margin-left: 22px;
+    margin-top: -200px;
+    background: rgba(63, 87, 113, 0.5);
+    ;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgba(222, 225, 230, 0.75);
+    widows: 300px;
+}
+
+.problem {
+    margin-top: 200px;
+}
+
+.problemform {
+    margin-top: 20px;
+    margin-left: 22px;
+    color: #DEE1E6;
+    font-family: 'Roboto', sans-serif;
+    clear: both;
+
+}
+
+.formprob {
+    margin-left: 22px;
+    background: rgba(63, 87, 113, 0.5);
+    ;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgba(222, 225, 230, 0.75);
+    widows: 300px;
+}
+
+.submit {
+    float: right;
+}
+
+.sendbtn {
+    background-color: #CCB57C;
+    color: #1A2F45;
+}
+
+.garis {
+    border: 2px solid #FFFFFF;
+    height: 415px;
+    margin-top: 32px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+
+.infopersonal {
+    margin-top: 32px;
+    margin-left: 80px;
+}
+
+.infopersonal h1 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    color: #DEE1E6;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.infopersonal .alamat {
+    color: #DEE1E6;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.infopersonal .email {
+    color: #DEE1E6;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.infopersonal .find {
+    color: rgba(222, 225, 230, 0.5);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.sosmedwh .fab {
+    float: left;
+    margin-left: 38px;
+    color: white;
+
+}
+
+input{
+    color: #FFFFFF;
+    padding-left: 10px;
+   
+}
+
+
+.sosmedwh {
+    margin-left: 75px;
+}
+
+.faq {
+    text-align: center;
+    margin-top: 52px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.faq a {
+    margin-left: 24px;
+    color: #DEE1E6;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 31px;
+    color: rgba(222, 225, 230, 0.25);
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+textarea{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+
+}

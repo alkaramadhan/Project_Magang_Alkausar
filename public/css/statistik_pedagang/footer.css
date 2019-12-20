@@ -1,0 +1,14 @@
+.footer {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-top: 550px;
+
+    color: #9BA4B1;
+}

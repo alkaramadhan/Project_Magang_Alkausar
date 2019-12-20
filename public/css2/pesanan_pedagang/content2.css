@@ -1,0 +1,38 @@
+.kotak2 {
+    width: 1115px;
+    height: 286px;
+    background: #F5F5F5;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 5px rgba(180, 180, 180, 0.25);
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.kotak2 h1 {
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    margin-top: 230px;
+
+    color: rgba(26, 47, 69, 0.5);
+}
+
+.footer {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #9BA4B1;
+    margin-top: 30px;
+}

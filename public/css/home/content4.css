@@ -1,0 +1,166 @@
+body {
+    overflow-x: hidden;
+}
+
+.con {
+    position: relative;
+    left: 123px;
+    right: 133px;
+}
+
+.card a i {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    color: #1A2F45;
+}
+
+.card-img-top {
+    max-width: 252px ;
+    max-height: 159px;
+}
+
+.card {
+    margin-left: 36px;
+}
+
+.rekomen {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.baris2 {
+    margin-top: 42px;
+}
+
+.nmbarang {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: normal;
+    color: #1A2F45;
+}
+
+.hrgbarang {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    color: #FE8C00;
+}
+
+.nmtoko {
+    margin-left: 7px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    color: #1A2F45;
+}
+
+.star {
+    margin-top: -10px;
+}
+
+.star i {
+    color: #CCB57C;
+
+}
+
+.cardemblm {
+    float: left;
+}
+
+/* The snackbar - position it at the bottom and in the middle of the screen */
+#snackbar {
+    visibility: hidden;
+    /* Hidden by default. Visible on click */
+    min-width: 250px;
+    /* Set a default minimum width */
+    margin-left: -125px;
+    /* Divide value of min-width by 2 */
+    background-color: #1A2F45;
+    /* Black background color */
+    color: #fff;
+    /* White text color */
+    text-align: center;
+    /* Centered text */
+    border-radius: 2px;
+    /* Rounded borders */
+    padding: 25px;
+    /* Padding */
+    position: fixed;
+    /* Sit on top of the screen */
+    z-index: 5;
+    /* Add a z-index if needed */
+    left: 45%;
+    /* Center the snackbar */
+    bottom: 30px;
+    /* 30px from the bottom */
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+#snackbar.show {
+    visibility: visible;
+    /* Show the snackbar */
+    /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+    However, delay the fade out process for 2.5 seconds */
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+    from {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    to {
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+
+@keyframes fadein {
+    from {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    to {
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeout {
+    from {
+        bottom: 30px;
+        opacity: 1;
+    }
+
+    to {
+        bottom: 0;
+        opacity: 0;
+    }
+}
+
+@keyframes fadeout {
+    from {
+        bottom: 30px;
+        opacity: 1;
+    }
+
+    to {
+        bottom: 0;
+        opacity: 0;
+    }
+}

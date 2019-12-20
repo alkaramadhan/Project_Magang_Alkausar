@@ -1,0 +1,38 @@
+.div2 {
+    margin-left: 90px;
+    margin-top: 70px;
+}
+
+.div2 div {
+    width: 203px;
+    height: 170px;
+    background: #F5F5F5;
+    float: left;
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding-left: 8px;
+    padding-top: 10px;
+    font-family: 'Oxygen', sans-serif;
+    color: #1A2F45;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    
+}
+
+.div2 div p {
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    margin-top: 45px;
+}
+

@@ -1,0 +1,73 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.bg1{
+    float: right;
+    clear: both;
+}
+
+.h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-top: 200px;
+    color: #3F5771;
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.pp{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.temukan {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3F5771;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16pt;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top: 70px;
+    margin-left: 70px;
+  }
+  
+  .temukan span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .temukan span:after {
+    content: '\02C5';
+    position: absolute;
+    opacity: 0;
+    top: 30px;
+    right: 150px;
+    left: 65px;
+    transition: 0.5s;
+  }
+  
+  .temukan:hover span {
+    padding-bottom: 20px;
+  }
+  
+  .temukan:hover span:after {
+    opacity: 1;
+    right:  1;
+  }
+
+

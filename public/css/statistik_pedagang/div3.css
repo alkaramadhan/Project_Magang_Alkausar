@@ -1,0 +1,82 @@
+.div3 {
+    clear: both;
+    margin-left: 110px;
+    width: 1097px;
+    height: 100%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    font-family: 'Oxygen', sans-serif;
+    text-transform: capitalize;
+    padding: 15px 15px 15px 15px;
+    color: #DEE1E6;
+    background: #1C2348;
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    border-radius: 5px 5px 0px 0px;
+    margin-top: 300px;
+}
+
+.dataprod {
+    margin-left: 110px;
+}
+
+.dataprod div {
+    width: 274px;
+    height: 100px;
+    /* Kotak Kecil */
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 8px;
+    padding-left: 8px;
+    color: #1A2F45;
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+
+}
+
+.dataprod div p {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: #3F5771;
+    margin-top: 20px;
+}
+
+.chart {
+    margin-left: 110px;
+}
+
+.chart {
+    clear: both;
+    width: 1097px;
+    height: 400px;
+    /* Kotak Kecil */
+    background: #E6E6E6;
+    /* Line */
+    border: 1px solid #39526C;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 8px;
+    padding-left: 8px;
+    color: #1A2F45;
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+
+}
